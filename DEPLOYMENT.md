@@ -10,6 +10,7 @@ Railway
 ### Health Check
 
 (base) PS K:\VIN_AI\Buoi_12\Lab12-2A202600135-NguyenBaKhanh\06-lab-complete> curl.exe https://agent-production-2533.up.railway.app/health
+
 {"status":"ok","version":"1.0.0","environment":"development","uptime_seconds":246.0}
  
  ##
