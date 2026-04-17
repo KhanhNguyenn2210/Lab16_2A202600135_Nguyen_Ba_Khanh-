@@ -91,7 +91,7 @@ graph TD
 
 ### Exercise 3.1: Railway deployment
 - URL: https://your-app.railway.app
-- Screenshot: [Link to screenshot in repo]
+- Screenshot: ` https://ibb.co/GvsdzdDh `
 
 ## Part 4: API Security
 
